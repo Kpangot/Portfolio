@@ -1,1 +1,1 @@
-Thank you for seeing my portfolio! 
+Check out my blog: https://explorerbeyond.blogspot.com/
