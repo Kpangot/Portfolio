@@ -1,4 +1,4 @@
-Optimal Portfolio for the Investment Portfolio Optimization Project
+  Optimal Portfolio - Investment Portfolio Optimization 
 
 ![for github portfolio optimization](https://user-images.githubusercontent.com/130066681/236635587-a6a2e0fc-3887-42e7-96c0-638b3174f7fa.png)
 
